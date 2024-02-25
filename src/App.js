@@ -8,14 +8,14 @@ export default function App() {
        <div className="container">
        <Weather  defaultCity="New York"/>
  
-<footer>
+       <footer>
           This project was coded by{" "}
           <a
             href="https://www.shecodes.io/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Liudmyla
+           Liudmyla
           </a>{" "}
           and is{" "}
           <a
